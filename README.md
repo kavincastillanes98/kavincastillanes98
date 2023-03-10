@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-### Hi there 👋
 
-<!--
-**star1010secret/star1010secret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="./img/header.png" alt="Jonah Lawrence" /></a>
@@ -63,8 +46,8 @@ Here are some ideas to get you started:
   - 👯 I’m looking to collaborate on ChatGPT projects.
   - 🤔 I’m looking for help with OpenAI. 
   - 💬 Ask me about OpenAI embedding.
-  - 📫 How to reach me: violetstar701@gmail.com
-  - 😄 Pronouns: Raya
+  - 📫 How to reach me: star1010secret@gmail.com
+  - 😄 Pronouns: Semyon
   - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
 </details>
 
@@ -202,4 +185,4 @@ Here are some ideas to get you started:
 
   <p><a href="https://holopin.io/@violetstar701"><img src="https://holopin.me/violetstar701" alt="@violetstar701&#39;s Holopin board"></a></p>
 </details>
->>>>>>> c65615e (seventh commit)
+
