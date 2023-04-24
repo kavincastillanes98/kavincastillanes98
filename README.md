@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://discord.gg/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./img/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/violetstar701" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
+  <a href="https://github.com/star1010secret" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -30,12 +30,12 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://github.com/violetstar701?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/violetstar701?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/violetstar701?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/violetstar701?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/violetstar701/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=violetstar701&style=for-the-badge&color=blueviolet"/></a>
+  <a href="https://github.com/star1010secret?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/star1010secret?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/star1010secret?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/star1010secret?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/star1010secret/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=star1010secret&style=for-the-badge&color=blueviolet"/></a>
 </p>
 
 <details open>
@@ -57,14 +57,14 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/violetstar701/video-trim"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=video-trim&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="video-trim"></a>
-    <a href="https://github.com/violetstar701/wine-service-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="wine-service-client"></a>
-    <a href="https://github.com/violetstar701/business-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=business-card&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="business-card"></a>
-    <a href="https://github.com/violetstar701/chatbot-crypto-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=chatbot-crypto-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="chatbot-crypto-frontend"></a>
-    <a href="https://github.com/violetstar701/chatbot-crypto-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=chatbot-crypto-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="chatbot-crypto-backend"></a>
+    <a href="https://github.com/star1010secret/video-trim"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=video-trim&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="video-trim"></a>
+    <a href="https://github.com/star1010secret/wine-service-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="wine-service-client"></a>
+    <a href="https://github.com/star1010secret/business-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=business-card&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="business-card"></a>
+    <a href="https://github.com/star1010secret/chatbot-crypto-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=chatbot-crypto-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="chatbot-crypto-frontend"></a>
+    <a href="https://github.com/star1010secret/chatbot-crypto-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=star1010secret&repo=chatbot-crypto-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="chatbot-crypto-backend"></a>
   </p>
 
-<a href="https://github.com/violetstar701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/star1010secret?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </details>
 
@@ -146,14 +146,14 @@
 
 <h3>🚀 Github Achivements</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=violetstar701&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=star1010secret&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="violetstar701's streak" src="https://streak-stats.demolab.com/?user=violetstar701&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="star1010secret's streak" src="https://streak-stats.demolab.com/?user=star1010secret&theme=monokai-metallian&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -162,15 +162,15 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="violetstar701's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=violetstar701&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="violetstar701's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=violetstar701&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="star1010secret's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=star1010secret&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="star1010secret's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=star1010secret&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="violetstar701's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=violetstar701&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="star1010secret's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=star1010secret&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
@@ -183,6 +183,6 @@
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  <p><a href="https://holopin.io/@violetstar701"><img src="https://holopin.me/violetstar701" alt="@violetstar701&#39;s Holopin board"></a></p>
+  <p><a href="https://holopin.io/@star1010secret"><img src="https://holopin.me/star1010secret" alt="@star1010secret&#39;s Holopin board"></a></p>
 </details>
 
