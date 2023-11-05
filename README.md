@@ -20,12 +20,12 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/star1010secret?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/star1010secret?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/star1010secret?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/star1010secret?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/star1010secret/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=star1010secret&style=for-the-badge&color=blueviolet"/></a>
+  <a href="https://github.com/josecalamaco?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/josecalamaco?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/josecalamaco?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/josecalamaco?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/josecalamaco/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=josecalamaco&style=for-the-badge&color=blueviolet"/></a>
 </p>
 
 <details open>
@@ -36,7 +36,7 @@
   - 👯 I’m looking to collaborate on ChatGPT projects.
   - 🤔 I’m looking for help with OpenAI. 
   - 💬 Ask me about OpenAI embedding.
-  - 📫 How to reach me: star1010secret@outlook.com
+  - 📫 How to reach me: josecalamaco@outlook.com
   - 😄 Pronouns: Jose Antonio
   - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
 </details>
@@ -45,17 +45,17 @@
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/star1010secret/tax-calculator"><img width="278" src="./img/tax-calculator.png" alt="tax-calculator"></a>
-    <a href="https://github.com/star1010secret/my-crm-call-center"><img width="278" src="./img/crm-call-center.png" alt="my-crm-call-center"></a>
-    <a href="https://github.com/star1010secret/quiz"><img width="278" src="./img/quiz.png" alt="quiz"></a>
-    <a href="https://github.com/star1010secret/wine-shop"><img width="278" src="./img/wine.png" alt="wine-shop"></a>
-    <a href="https://github.com/star1010secret/threejs-nextjs"><img width="278" src="./img/threejs-nextjs.png" alt="threejs-nextjs"></a>
-    <a href="https://github.com/star1010secret/digital-business-card"><img width="278" src="./img/digital-business-card.png" alt="digital-business-card"></a>
-    <a href="https://github.com/star1010secret/videoeditor"><img width="278" src="./img/video-editor.png" alt="videoeditor"></a>
-    <a href="https://github.com/star1010secret/DemoTrading"><img width="278" src="./img/demo-trading.png" alt="DemoTrading"></a>
+    <a href="https://github.com/josecalamaco/tax-calculator"><img width="278" src="./img/tax-calculator.png" alt="tax-calculator"></a>
+    <a href="https://github.com/josecalamaco/my-crm-call-center"><img width="278" src="./img/crm-call-center.png" alt="my-crm-call-center"></a>
+    <a href="https://github.com/josecalamaco/quiz"><img width="278" src="./img/quiz.png" alt="quiz"></a>
+    <a href="https://github.com/josecalamaco/wine-shop"><img width="278" src="./img/wine.png" alt="wine-shop"></a>
+    <a href="https://github.com/josecalamaco/threejs-nextjs"><img width="278" src="./img/threejs-nextjs.png" alt="threejs-nextjs"></a>
+    <a href="https://github.com/josecalamaco/digital-business-card"><img width="278" src="./img/digital-business-card.png" alt="digital-business-card"></a>
+    <a href="https://github.com/josecalamaco/videoeditor"><img width="278" src="./img/video-editor.png" alt="videoeditor"></a>
+    <a href="https://github.com/josecalamaco/DemoTrading"><img width="278" src="./img/demo-trading.png" alt="DemoTrading"></a>
   </p>
 
-<a href="https://github.com/star1010secret?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/josecalamaco?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </details>
 
