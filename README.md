@@ -18,7 +18,7 @@
   <a href="https://" alt="Whatsapp" title="Whatsapp"><img width="32px" src="./img/whatsapp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/>
-
+<!--
 <p align="center">
   <a href="https://github.com/josecalamaco?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/josecalamaco?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -27,7 +27,7 @@
   <a href="https://github.com/josecalamaco/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=josecalamaco&style=for-the-badge&color=blueviolet"/></a>
 </p>
-
+-->
 <details open>
   <summary><h2>✨ My Status</h2></summary>
   
