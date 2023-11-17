@@ -7,27 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Python%20C++%20AngularJS%20ChatGPT%20OpenAI%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=lean&vCenter=true&pause=1000&size=22" />
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://discord.gg/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./img/discord.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://" alt="Skype" title="Skype"><img width="32px" src="./img/skype.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://" alt="Whatsapp" title="Whatsapp"><img width="32px" src="./img/whatsapp.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<br/>
-<!--
-<p align="center">
-  <a href="https://github.com/kavincastillanes98?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kavincastillanes98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/kavincastillanes98?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kavincastillanes98?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/kavincastillanes98/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kavincastillanes98&style=for-the-badge&color=blueviolet"/></a>
-</p>
--->
 <details open>
   <summary><h2>✨ My Status</h2></summary>
   
