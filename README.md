@@ -10,7 +10,7 @@
 <details open>
   <summary><h2>✨ My Status</h2></summary>
   
-  - 🔭 I’m currently working on high level of Chatbot project.
+  - 🔭 I’m currently working on high level of Chatbot project. 
   - 🌱 I’m currently learning AI.
   - 👯 I’m looking to collaborate on ChatGPT projects.
   - 🤔 I’m looking for help with OpenAI. 
